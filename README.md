@@ -1,11 +1,3 @@
-# fresh project
+# Learning [Fresh](https://fresh.deno.dev/)!
 
-### Usage
-
-Start the project:
-
-```
-deno task start
-```
-
-This will watch the project directory and restart as necessary.
+Amazing tool for full-stack development. It doesn't seem to be mature enough yet but it seems to be very useful!
